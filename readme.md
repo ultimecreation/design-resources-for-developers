@@ -78,7 +78,7 @@ Resources for Icons including font based, png, svg and more
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
 | [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
-| (Nova Icons)(https://www.streamlineicons.com/) | Free svg,eps,pdf,.... pack of Icons .|
+| [Nova Icons](https://www.streamlineicons.com/)| Free svg,eps,pdf,.... pack of Icons .|
 
 ## Stock Photos
 
